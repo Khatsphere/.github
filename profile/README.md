@@ -75,5 +75,5 @@ Connect with us on LinkedIn!
 5. [Demo Application](https://drive.google.com/file/d/16df_mFf-sFAMbJ_c_2SzKDB9kA2eoA0J/view?usp=drive_link)
    - This demo application showcases the core functionalities of Khatsphere. (This android application is not finished yet)
 
-6. [Machine Learning Model](https://drive.google.com/file/d/1VdUmfb6BbgZtzWvX716PGIDr1YfyUVF8/view?usp=drive_link) 
-
+6. [Machine Learning Model](https://drive.google.com/file/d/1VdUmfb6BbgZtzWvX716PGIDr1YfyUVF8/view?usp=drive_link)
+   - Try inference to model with your own API and app, u can get the model from link above
