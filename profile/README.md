@@ -61,17 +61,19 @@ Connect with us on LinkedIn!
 ## Important Resources 
 
 1. [Mobile Development Repository](https://github.com/samiirham220103/Khatsphere)
-   - This repository contains the source code for the mobile application developed by Sami Irhamnillah, focusing on implementing Khatsphere's features in Kotlin within Android Studio IDE.
+   - This repository contains the source code for the mobile application development, focusing on implementing Khatsphere's features in Kotlin within Android Studio IDE.
 
 2. [Machine Learning Notebook](https://colab.research.google.com/drive/1WQ2HZlpK6mMMopNmFi17TxxBclUbxGfm?usp=sharing)
-   - Access this Google Colab notebook to delve into the machine learning aspects of Khatsphere. It details the process of training and evaluating the image classification model using TensorFlow and Keras, designed by Ridwan Ahmad Fauzan.
+   - Access this Google Colab notebook to delve into the machine learning aspects of Khatsphere. It details the process of training and evaluating the image classification model using TensorFlow and Keras.
 
 3. [Dataset on Google Drive](https://drive.google.com/drive/folders/1E5QCPpb61LkGeHX3TixAxLWBJZwd4sue?usp=drive_link)
    - The dataset used in Khatsphere, hosted on Google Drive, includes a collection of images categorized into manuscript (naskah), illuminated manuscript (mushaf), contemporary art (kontemporer), and decorative art (dekorasi). This resource is managed and maintained for ongoing research and development.
 
 4. [Link to APK Installer](https://drive.google.com/file/d/1ElI5xLu3ps43leOee3x1q-U7gIJEU33t/view?usp=sharing)
-   - Download the APK installer file to directly install and experience the Khatsphere mobile application on an Android device. This installer provides access to the latest version of the application developed by Sami Irhamnillah.
+   - Download the APK installer file to directly install and experience the Khatsphere mobile application on an Android device. This installer provides access to the latest version of the application.
 
 5. [Demo Application](https://drive.google.com/file/d/16df_mFf-sFAMbJ_c_2SzKDB9kA2eoA0J/view?usp=drive_link)
-   - This demo application showcases the core functionalities of Khatsphere. It allows users to explore and identify various styles of Arabic calligraphy using image recognition technology. Experience firsthand how the application works by downloading and installing this demo version.
+   - This demo application showcases the core functionalities of Khatsphere. (This android application is not finished yet)
+
+6. [Machine Learning Model](https://drive.google.com/file/d/1VdUmfb6BbgZtzWvX716PGIDr1YfyUVF8/view?usp=drive_link) 
 
