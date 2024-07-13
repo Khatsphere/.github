@@ -77,3 +77,5 @@ Connect with us on LinkedIn!
 
 6. [Machine Learning Model](https://drive.google.com/file/d/1VdUmfb6BbgZtzWvX716PGIDr1YfyUVF8/view?usp=drive_link)
    - Try inference to model with your own API and app, u can get the model from link above
+  
+7. [Simple Research Paper](https://drive.google.com/file/d/1aOrNUBIhvv772WE4hHDOtjrlZNclNgtY/view)
